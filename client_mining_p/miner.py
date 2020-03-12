@@ -4,7 +4,7 @@ import requests
 import sys
 import json
 
-
+ 
 def proof_of_work(block):
     """
     Simple Proof of Work Algorithm
